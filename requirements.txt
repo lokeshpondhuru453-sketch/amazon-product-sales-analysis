@@ -1,0 +1,29 @@
+# Amazon Product Sales Analysis
+
+## Project Overview
+This project analyzes Amazon product sales data to identify
+patterns in product pricing, discounts, ratings, and customer reviews.
+
+## Objectives
+- Analyze product pricing and discounts.
+- Identify top-rated product categories.
+- Explore customer ratings and reviews.
+- Understand the relationship between discounts and ratings.
+- Generate meaningful business insights.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Streamlit
+- Plotly
+
+## Key Findings
+- Average discounted price: ₹235.58
+- Average original price: ₹249.46
+- Average product rating: approximately 4.1
+- Discount and product rating correlation: 0.028
+- Reviews and product rating correlation: 0.098
